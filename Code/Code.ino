@@ -5,11 +5,11 @@
 #include "addons/RTDBHelper.h"
 
 
-#define WIFI_SSID "Shotzzy"
-#define WIFI_PASSWORD "cosmos1234"
+#define WIFI_SSID "*****"
+#define WIFI_PASSWORD "*****"
 
-#define API_KEY "AIzaSyB8bgRYUTJTOHbAEtlE0YQn45UivsXncB0"
-#define DATABASE_URL "https://esp32-v1-b7211-default-rtdb.europe-west1.firebasedatabase.app/" 
+#define API_KEY "*****"
+#define DATABASE_URL "******/" 
 
 #define LED 2
 #define DHTPIN 13
